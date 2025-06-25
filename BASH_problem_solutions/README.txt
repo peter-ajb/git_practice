@@ -4,9 +4,6 @@ Brief BASH script descriptions:
 - `mount_check.sh`  
   Checks if a specific device is mounted; prints a message if not.
 
-- `sedcoms.sh`  
-  Uses `sed` to replace and modify specific lines in a file.
-
 - `tps_reports3.sh`  
   Takes inputs, produces an email format based on that.
 
